@@ -12,5 +12,3 @@ public class Helloworld {
 	}
 
 }
-
-// K SY  <thdnjs8930@daum.net>
