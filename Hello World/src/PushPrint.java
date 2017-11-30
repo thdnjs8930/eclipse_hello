@@ -5,6 +5,7 @@ public class PushPrint {
 		// TODO Auto-generated method stub
 		System.out.println("Add Java Class file Push");
 		System.out.println("Hello world Hi!");
+		System.out.println("Hello world 365");
 		
 	}
 
